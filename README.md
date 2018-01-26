@@ -1,1 +1,1 @@
-# Angular-Jwt-MySql-Node
+# Angular-JWT-Auth
